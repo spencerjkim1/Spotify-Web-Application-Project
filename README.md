@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Notes about the Spotify Festival App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app allows you to specify a list of artists you are going to see at an upcoming festival.
+
+This app creates a playlist filled with the top songs from these artists to prepare you for the festival!
+
+# Getting Started with Create React App
 
 ## Available Scripts
 
