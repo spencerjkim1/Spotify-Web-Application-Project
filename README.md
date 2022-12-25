@@ -1,4 +1,4 @@
-# Notes about the Spotify Festival App
+# Notes about the Spotify App
 
 This app allows you to specify a list of artists you are going to see at an upcoming festival.
 
